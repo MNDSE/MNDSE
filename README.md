@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MNDSE
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently majoring computer science
 - 💞️ I’m looking to collaborate on anything related to web development, database creation and management.
 - 📫 How to reach me mndsezi@gmail.com...
 
